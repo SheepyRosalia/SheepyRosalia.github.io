@@ -1,10 +1,9 @@
-# mica-therock.github.io
+# sheepyrosalia.github.io
 
 ## TODO LIST
 
 
-- [ ] Puppy section
-- [ ] Gallery
+- [ ] noidea.exe
 
 ---
 - [x] Simple about me (name, age, pronouns)
